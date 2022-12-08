@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-CSE 3320 Operating Systems | Assignment 4: Networking and Security
+DRIPBOX Cloud File System
                     < SERVER SIDE SERVICE >
-@author: Nabeel Nayyar
+@author: Nabeel
 """
 import socket
 import os
