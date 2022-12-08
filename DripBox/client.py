@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-CSE 3320 Operating Systems | Assignment 4: Networking and Security
+DRIPBOX Cloud File System
                     < CLIENT SIDE SERVICE >
-@author: Nabeel Nayyar
+@author: Nabeel
 """
 # Import GUI Dependencies
 import tkinter as tk
